@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishnetcode
-- 👀 I’m dotnet develper having 13+ years of experience in Microsoft development technologies
-- 🌱 I’m currently learning minimal API/Azure/ .net6
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m dotnet develper.
+- 🌱 I’m currently learning minimal API/Azure/.Net6/.Net7
+- 💞️ I’m looking to collaborate on .Net libraries.
 - 📫 You can find me on linkedin @ ish-rastogi-5b322010
 
 <!---
