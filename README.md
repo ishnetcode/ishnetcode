@@ -6,7 +6,6 @@ With over 17 years of experience in the .NET ecosystem, I am a seasoned software
 
 As a "vibe coder," I embrace AI-assisted programming to deliver robust solutions faster, combining deep technical expertise with innovative approaches to software architecture and deployment.
 
-> "Code is poetry in motion; AI is the rhythm that makes it dance." – My coding philosophy
 
 ## 💼 Professional Experience
 
