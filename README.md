@@ -9,11 +9,9 @@ As a "vibe coder," I embrace AI-assisted programming to deliver robust solutions
 
 ## 💼 Professional Experience
 
-### Early Career
-- **VB.NET & MS Access**: Built foundational skills in desktop and database applications, focusing on data-driven solutions.
 
 ### Enterprise Development
-- **C# ASP.NET & MVC**: Developed web applications using MSSQL and MongoDB, implementing waterfall methodologies for large-scale enterprise projects.
+- **C# .NET Core & MVC**: Developed web applications using MSSQL and MongoDB, implementing waterfall methodologies for large-scale enterprise projects.
 
 ### Cloud-Native & Modern .NET
 - **.NET Core & Beyond**: Architected and deployed multiple applications on AWS, including migrations to Amazon EKS (Kubernetes). Extensive experience with PostgreSQL and MSSQL databases.
@@ -80,16 +78,6 @@ As a "vibe coder," I embrace AI-assisted programming to deliver robust solutions
 - Integrating AI/ML models into .NET applications for intelligent automation.
 - Advancing cloud-native development with serverless and edge computing.
 - Learning React and React Native for enhanced front-end capabilities.
-
-## 🚀 Featured Projects
-
-Here are some of my notable projects that showcase my expertise in .NET, cloud architecture, and AI integration:
-
-- **[Project Name 1](https://github.com/ishnetcode/project1)**: Brief description of a key project, e.g., "A microservices-based e-commerce platform built with .NET Core and deployed on AWS EKS."
-- **[Project Name 2](https://github.com/ishnetcode/project2)**: Another example, e.g., "AI-powered chatbot using LLMs integrated into a .NET application."
-- **[Project Name 3](https://github.com/ishnetcode/project3)**: "Minimal API for high-performance data processing with PostgreSQL."
-
-*Check out my repositories for more!*
 
 ## 🤝 Let's Connect
 I'm passionate about collaborating on innovative .NET projects, especially those involving cloud architecture, AI integration, and modern development practices. Feel free to reach out for discussions on architecture, code reviews, or potential collaborations.
