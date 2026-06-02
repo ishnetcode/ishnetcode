@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-With over 17 years of experience in the .NET ecosystem, I am a seasoned software architect and developer specializing in building scalable, cloud-native applications. My journey spans from traditional enterprise systems to cutting-edge microservices and AI-enhanced development practices. I leverage modern tools like GitHub Copilot for efficient, high-quality code generation and integrate Large Language Models (LLMs) to accelerate development workflows.
+I am a seasoned software architect and developer specializing in building scalable, cloud-native applications. My journey spans from traditional enterprise systems to cutting-edge microservices and AI-enhanced development practices. I leverage modern tools like GitHub Copilot for efficient, high-quality code generation and integrate Large Language Models (LLMs) to accelerate development workflows.
 
 As a "vibe coder," I embrace AI-assisted programming to deliver robust solutions faster, combining deep technical expertise with innovative approaches to software architecture and deployment.
 
