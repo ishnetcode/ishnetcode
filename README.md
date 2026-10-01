@@ -1,4 +1,4 @@
-# 👋 Ish Rastogi - Senior .NET Architect & Cloud-Native Developer
+# 👋 Ish Rastogi - Senior .NET Developer & Cloud-Native Developer
 
 ## 🚀 About Me
 
